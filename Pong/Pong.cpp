@@ -160,4 +160,5 @@ int main() {
     else {
         cout << "Player 2 WIN!";
     }
+    return 0;
 }
