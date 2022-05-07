@@ -1,5 +1,5 @@
 # Project: Pong
-This my first hard c++ project and I have tried my best to simulate the game.
+This my first hard c++ project and I have tried my best to create the game.
 
 ## Game Controls:
 * **W Key** - to move left blade up.
